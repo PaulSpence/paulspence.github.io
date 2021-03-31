@@ -14,6 +14,6 @@ I completed my PhD at the [School of Earth and Ocean Science, University of Vict
 
 In 2009, I began working at the [Climate Change Research Centre, UNSW, Sydney, Australia](https://www.ccrc.unsw.edu.au/) as a post-doctoral researcher. In 2015, I received an Australian Research Council Discovering Early Career Researchers award to study Antarctic Bottom Water dynamics. I was promoted to Senior Lecturer at UNSW in 2016. 
 
-In 2020, I started working at the School of Geosciences, University of Sydney. In 2019, I received an Australian Research Council Future Fellowship award to study the Antarctic Slope Current at the University of Sydney. 
+In 2019, I received an Australian Research Council Future Fellowship award to study the Antarctic Slope Current at the University of Sydney. In 2020, I started working at the [School of Geosciences, University of Sydney](https://www.sydney.edu.au/science/schools/school-of-geosciences.html). 
 
 
