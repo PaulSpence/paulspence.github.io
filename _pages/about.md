@@ -12,23 +12,8 @@ The central theme of my research is geophysical fluid dynamics, with a focus on 
 
 I completed my PhD at the [School of Earth and Ocean Science, University of Victoria, BC, Canada](https://www.uvic.ca/science/seos/index.php) in 2009. My PhD focussed on numerical modelling of the ocean's overturning circulation at mesoscale resolutions. 
 
-From 2009 to 2019, I worked at the [Climate Change Research Centre, UNSW, Sydney, Australia](https://www.ccrc.unsw.edu.au/).  
+In 2009, I began working at the [Climate Change Research Centre, UNSW, Sydney, Australia](https://www.ccrc.unsw.edu.au/) as a post-doctoral researcher. In 2015, I received an Australian Research Council Discovering Early Career Researchers award to study Antarctic Bottom Water dynamics. I was promoted to Senior Lecturer at UNSW in 2016. 
 
-I am now at the School of Geosciences, University of Sydney. In 2015, I received an Australian Research Council Discovering Early Career Researchers award. In 2019, I received an Australian Research Council Future Fellowship award.
+In 2020, I started working at the School of Geosciences, University of Sydney. In 2019, I received an Australian Research Council Future Fellowship award to study the Antarctic Slope Current at the University of Sydney. 
 
-
-Research Interests
-======
-1. Antarctic Slope Current Dynamics
-1. Overturning Circulation Dyanics
-	This is a test 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-#1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-
-#Site-wide configuration
-#------
 
