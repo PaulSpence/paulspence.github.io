@@ -7,7 +7,7 @@ author_profile: true
 
 <section class="page__content" itemprop="text">
 
-<p>Please see below for a publication list of my journal article. You can also visit my <a href="https://scholar.google.com/citations?user=GlrxwVIAAAAJ">Google Scholar profile</a> or my <a href="https://orcid.org/0000-0001-5156-2204">OrchidId</a> </p>
+<p>Please see below for a publication list of my journal article. You can also visit my <a href="https://scholar.google.com/citations?user=GlrxwVIAAAAJ">Google Scholar</a> or <a href="https://orcid.org/0000-0001-5156-2204">OrchidId</a> profiles.</p>
 
 <h2 id="journal-articles">Journal Articles</h2>
 
@@ -15,4 +15,12 @@ author_profile: true
 
 <ul><li><p>Webb, D., <em>Holmes, R. M.</em>, Spence, P. and England, M.: Propagation of barotropic Kelvin waves around Antarctica. Submitted to <strong>Ocean Dynamics</strong>.</p></li><li><p>Webb, D., Spence, P., <em>Holmes, R. M.</em> and England, M.: Planetary-wave induced strengthening of the AMOC forced by poleward intensified Southern Hemisphere westerly winds. Submitted to <strong>Journal of Climate</strong>.</p></li></ul>
 
+
+<ol reversed>
+  <li><p>Webb, D., <em>Holmes, R. M.</em>, Spence, P. and England, M.: Propagation of barotropic Kelvin waves around Antarctica. Submitted to <strong>Ocean Dynamics</strong>.</p></li>
+  <li></li>
+  <li><p>Webb, D., Spence, P., <em>Holmes, R. M.</em> and England, M.: Planetary-wave induced strengthening of the AMOC forced by poleward intensified Southern Hemisphere westerly winds. Submitted to <strong>Journal of Climate</strong>.</p></li>
+  <li>I am a list item.</li>
+  <li>I am a list item.</li>
+</ol>
 
