@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-<header><h1 class="page__title" itemprop="headline">Publications</h1></header>
-
 <section class="page__content" itemprop="text">
 
-<p>Please see below for a publication list, including journal articles, theses, media articles and data sets. You can also visit my <a href="https://scholar.google.com.au/citations?user=6g3s9ygAAAAJ&amp;hl=en">Google Scholar profile</a></p>
+<p>Please see below for a publication list of my journal article. You can also visit my <a href="https://scholar.google.com/citations?user=GlrxwVIAAAAJ">Google Scholar profile</a> or my <a href="https://orcid.org/0000-0001-5156-2204">OrchidId</a> </p>
 
 <h2 id="journal-articles">Journal Articles</h2>
 
