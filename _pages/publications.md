@@ -7,7 +7,7 @@ author_profile: true
 
 <section class="page__content" itemprop="text">
 
-<p>Please see below for a publication list of my journal article. You can also visit my <a href="https://scholar.google.com/citations?user=GlrxwVIAAAAJ">Google Scholar</a> or <a href="https://orcid.org/0000-0001-5156-2204">OrchidId</a> profiles.</p>
+<p>Please see below for a publication list of my journal article. You can also visit my <a href="https://scholar.google.com/citations?user=GlrxwVIAAAAJ">Google Scholar</a> or <a href="https://orcid.org/0000-0001-5156-2204">Orchid Id</a> profiles.</p>
 
 <h2 id="journal-articles">Journal Articles</h2>
 
