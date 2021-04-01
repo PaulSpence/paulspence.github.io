@@ -30,7 +30,7 @@ author_profile: true
 
 <li>Menviel, L., <em>Spence, P.</em>, Skinner, L., Tachikawa, K., Friedrich, T., Missiaen, L. and Yu, L. 2020: Enhanced Mid‐depth Southward Transport in the Northeast Atlantic at the Last Glacial Maximum Despite a Weaker AMOC. <strong>Paleoceanography and Paleoclimatology</strong>. https://doi.org/10.1029/2019PA003793  <a href="/files/2019PA003793.pdf">pdf</a></li>
 
-<li>Duran, E., Phillips, H., Furue, R., <em>Spence, P.</em>, Bindoff, N. 2020: Southern Australia Current System based on a gridded hydrography and a high-resolution model. https://doi.org/10.1016/j.pocean.2019.102254 <a href="/files/1-s2.0-S0079661119304343-main.pdf">pdf</a> </li>
+<li>Duran, E., Phillips, H., Furue, R., <em>Spence, P.</em>, Bindoff, N. 2020: Southern Australia Current System based on a gridded hydrography and a high-resolution model. <strong>Progress in Oceanography</strong>. https://doi.org/10.1016/j.pocean.2019.102254 <a href="/files/1-s2.0-S0079661119304343-main.pdf">pdf</a> </li>
 
 <li>Hirschi, J. et al. 2020: The Atlantic meridional overturning circulation in high resolution models.<strong>JGR-Oceans</strong>. https://doi.org/10.1029/2019JC015522 <a href="/files/2019JC015522.pdf">pdf</a> </li>
 
