@@ -32,7 +32,7 @@ author_profile: true
 
 <li>Duran, E., Phillips, H., Furue, R., <em>Spence, P.</em>, Bindoff, N. 2020: Southern Australia Current System based on a gridded hydrography and a high-resolution model. <strong>Progress in Oceanography</strong>. https://doi.org/10.1016/j.pocean.2019.102254 <a href="/files/1-s2.0-S0079661119304343-main.pdf">pdf</a> </li>
 
-<li>Hirschi, J. et al. 2020: The Atlantic meridional overturning circulation in high resolution models.<strong>JGR-Oceans</strong>. https://doi.org/10.1029/2019JC015522 <a href="/files/2019JC015522.pdf">pdf</a> </li>
+<li>Hirschi, J. et al. 2020: The Atlantic meridional overturning circulation in high resolution models.<strong> JGR-Oceans</strong>. https://doi.org/10.1029/2019JC015522 <a href="/files/2019JC015522.pdf">pdf</a> </li>
 
 <li>Zeller, M., McGregor, S., van Sebille, E., Capotondi, A., <em>Spence, P.</em> 2020: Subtropical‑tropical pathways of spiciness anomalies and their impact on equatorial Pacifc temperature. <strong>Climate Dynamics</strong>. https://doi.org/10.1007/s00382-020-05524-8 <a href="/files/Zeller2021_Article.pdf">pdf</a> </li>
 
@@ -47,14 +47,18 @@ author_profile: true
 <h3 id="2019">2019</h3>
 
   <li>Waugh, D., Hogg, A., Spence, P., England, M., Haine, T. 2019: Response of Southern Ocean ventilation to changes in mid-latitude westerly winds. <strong>Journal of Climate</strong>, 32, 5345-5361. https://doi.org/10.1175/JCLI-D-19-0039.1 <a href="/files/Waugh2019.pdf">pdf</a></li>
+  
+
+<li> Zeller, M., McGregor, S., Spence, P. 2019: Hemispheric asymmetry of the Pacific shallow meridional overturning circulation. <strong>Climate Dynamics</strong>, https://doi.org/10.1029/2018JC014840 <a href="/files/2018JC014840.pdf">pdf</a></li>
+
+
+<li> Hughes, C., Fukumori, I., Griffies, S., Huthenance, J., Minobe, S., & Spence, P., Thompson, K., Wise, A. 2019: Sea Level and the Role of Coastal Trapped Waves in Mediating the Influence of the Open Ocean on the Coast. <strong>Surveys in Geophysics</strong>. https://doi.org/10.1007/s10712-019-09535-x <a href="/files/2018JC014840.pdf">pdf</a></li>
+
+<li>Ypma, SL, Brüggemann, N, Georgiou, S, Spence, P & Dijkstra, H., Pietrzak, J., Katsman, C. 2019: Pathways and watermass transformation of Atlantic Water entering the Nordic Seas through Denmark Strait in two high resolution ocean models. <strong>Deep Sea Research</strong>, vol. 145, pp. 59–72. https://doi.org/10.1016/j.dsr.2019.02.002 <a href="/files/1-s2.0-S0967063718302620-main.pdf">pdf</a></li>
+
+<li>Webb, D., Holmes, R., Spence, P., and England, M. 2019: Barotropic Kelvin Wave‐Induced Bottom Boundary Layer Warming Along the West Antarctic Peninsula. <strong> Journal of Geophysical Research: Oceans</strong>, vol. 124, no. 3, pp. 1595–1615, https://doi.org/10.1029/2018JC014227 <a href="2018JC014227.pdf">pdf</a>  </li>
+
 
 </ol>
-
-
-1.	Waugh, D. W., A. McC. Hogg, P. Spence, M. H. England, T. W. N. Haine, 2019: Response of Southern Ocean ventilation to changes in mid-latitude westerly winds, Journal of Climate, 32, 5345-5361. https://doi.org/10.1175/JCLI-D-19-0039.1
-2.	Zeller, M., McGregor, S., Spence, P. 2019, ‘Hemispheric asymmetry of the Pacific shallow meridional overturning circulation, Climate Dynamics, https://doi.org/10.1029/2018JC014840
-3.	Hughes, CW, Fukumori, I, Griffies, SM, Huthenance, J., Minobe, S, & Spence, P, 2019, ‘Sea Level and the Role of Coastal Trapped Waves in Mediating the Influence of the Open Ocean on the Coast’, Surveys in Geophysics, https://doi.org/10.1007/s10712-019-09535-x
-4.	Ypma, SL, Brüggemann, N, Georgiou, S, Spence, P & Dijkstra, HA et al. 2019, ‘Pathways and watermass transformation of Atlantic Water entering the Nordic Seas through Denmark Strait in two high resolution ocean models’, Deep Sea Research Part I: Oceanographic Research Papers, vol. 145, pp. 59–72, doi:10.1016/j.dsr.2019.02.002 
-5.	Webb, DJ, Holmes, RM, Spence, P & England, MH 2019, ‘Barotropic Kelvin Wave‐Induced Bottom Boundary Layer Warming Along the West Antarctic Peninsula’, Journal of Geophysical Research: Oceans, vol. 124, no. 3, pp. 1595–1615, doi:10.1029/2018jc014227 
 
 
