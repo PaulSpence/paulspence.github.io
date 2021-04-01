@@ -7,7 +7,7 @@ author_profile: true
 
 <section class="page__content" itemprop="text">
 
-<p>Please see below for a publication list of my journal article. You can also visit my <a href="https://scholar.google.com/citations?user=GlrxwVIAAAAJ">Google Scholar</a> or <a href="https://orcid.org/0000-0001-5156-2204">Orchid Id</a> profiles.</p>
+<p>Please see below for a publication list of my journal articles. You can also visit my <a href="https://scholar.google.com/citations?user=GlrxwVIAAAAJ">Google Scholar</a> or <a href="https://orcid.org/0000-0001-5156-2204">Orchid Id</a> profiles.</p>
 
 <h2 id="journal-articles">Journal Articles</h2>
 
@@ -46,19 +46,30 @@ author_profile: true
 
 <h3 id="2019">2019</h3>
 
-  <li>Waugh, D., Hogg, A., Spence, P., England, M., Haine, T. 2019: Response of Southern Ocean ventilation to changes in mid-latitude westerly winds. <strong>Journal of Climate</strong>, 32, 5345-5361. https://doi.org/10.1175/JCLI-D-19-0039.1 <a href="/files/Waugh2019.pdf">pdf</a></li>
+ <li>Waugh, D., Hogg, A., Spence, P., England, M., Haine, T. 2019: Response of Southern Ocean ventilation to changes in mid-latitude westerly winds. <strong>Journal of Climate</strong>, 32, 5345-5361. https://doi.org/10.1175/JCLI-D-19-0039.1 <a href="/files/Waugh2019.pdf">pdf</a></li>
   
 
 <li> Zeller, M., McGregor, S., Spence, P. 2019: Hemispheric asymmetry of the Pacific shallow meridional overturning circulation. <strong>Climate Dynamics</strong>, https://doi.org/10.1029/2018JC014840 <a href="/files/2018JC014840.pdf">pdf</a></li>
 
+<li> Hughes, C., Fukumori, I., Griffies, S., Huthenance, J., Minobe, S., & <em>Spence, P.</em>, Thompson, K., Wise, A. 2019: Sea Level and the Role of Coastal Trapped Waves in Mediating the Influence of the Open Ocean on the Coast. <strong>Surveys in Geophysics</strong>. https://doi.org/10.1007/s10712-019-09535-x <a href="/files/2018JC014840.pdf">pdf</a></li>
 
-<li> Hughes, C., Fukumori, I., Griffies, S., Huthenance, J., Minobe, S., & Spence, P., Thompson, K., Wise, A. 2019: Sea Level and the Role of Coastal Trapped Waves in Mediating the Influence of the Open Ocean on the Coast. <strong>Surveys in Geophysics</strong>. https://doi.org/10.1007/s10712-019-09535-x <a href="/files/2018JC014840.pdf">pdf</a></li>
+<li>Ypma, SL, Brüggemann, N, Georgiou, S, <em>Spence, P</em> & Dijkstra, H., Pietrzak, J., Katsman, C. 2019: Pathways and watermass transformation of Atlantic Water entering the Nordic Seas through Denmark Strait in two high resolution ocean models. <strong>Deep Sea Research</strong>, vol. 145, pp. 59–72. https://doi.org/10.1016/j.dsr.2019.02.002 <a href="/files/1-s2.0-S0967063718302620-main.pdf">pdf</a></li>
 
-<li>Ypma, SL, Brüggemann, N, Georgiou, S, Spence, P & Dijkstra, H., Pietrzak, J., Katsman, C. 2019: Pathways and watermass transformation of Atlantic Water entering the Nordic Seas through Denmark Strait in two high resolution ocean models. <strong>Deep Sea Research</strong>, vol. 145, pp. 59–72. https://doi.org/10.1016/j.dsr.2019.02.002 <a href="/files/1-s2.0-S0967063718302620-main.pdf">pdf</a></li>
+<li>Webb, D., Holmes, R., <em>Spence, P.</em>, and England, M. 2019: Barotropic Kelvin Wave‐Induced Bottom Boundary Layer Warming Along the West Antarctic Peninsula. <strong> Journal of Geophysical Research: Oceans</strong>, vol. 124, no. 3, pp. 1595–1615. https://doi.org/10.1029/2018JC014227 <a href="/files/2018JC014227.pdf">pdf</a>  </li>
 
-<li>Webb, D., Holmes, R., Spence, P., and England, M. 2019: Barotropic Kelvin Wave‐Induced Bottom Boundary Layer Warming Along the West Antarctic Peninsula. <strong> Journal of Geophysical Research: Oceans</strong>, vol. 124, no. 3, pp. 1595–1615, https://doi.org/10.1029/2018JC014227 <a href="2018JC014227.pdf">pdf</a>  </li>
 
+<h3 id="2018">2018</h3>
+
+<li>Thompson, AF, Stewart, AL, <em>Spence, P</em> & Heywood, KJ 2018: The Antarctic Slope Current in a Changing Climate,<strong>Reviews of Geophysics </strong>, vol. 56, no. 4, pp. 741–770. https://doi:10.1029/2018rg000624 <a href="/files/Thompson_et_al-2018.pdf">pdf</a> </li>
+
+<li>Menviel, L, Spence, P, Yu, J, Chamberlain, MA & Matear, RJ et al. 2018: Southern Hemisphere westerlies as a driver of the early deglacial atmospheric CO2 rise, <strong>Nature Communications</strong>, vol. 9, no. 1, https://doi:10.1038/s41467-018-04876-4 <a href="/files/s41467-018-04876-4.pdf">pdf</a></li>
+
+<li>Thran, AC, Dutkiewicz, A, Spence, P & Müller, RD 2018: Controls on the global distribution of contourite drifts: Insights from an eddy-resolving ocean model, <strong>Earth and Planetary Science Letters</strong>, vol. 489, pp. 228–240, https://doi.org/10.1016/j.epsl.2018.02.044 <a href="/files/s41467-018-04876-4.pdf">pdf</a></li>
 
 </ol>
 
+10.	Stoney, L, Walsh, KJE, Thomas, S, Spence, P & Babanin, AV 2018, ‘Changes in Ocean Heat Content Caused by Wave-Induced Mixing in a High-Resolution Ocean Model’, Journal of Physical Oceanography, vol. 48, no. 5, pp. 1139–1150, doi:10.1175/jpo-d-17-0142.1 
+11.	Downes, SM, Spence, P & Hogg, AM 2018, ‘Understanding variability of the Southern Ocean overturning circulation in CORE-II models’, Ocean Modelling, vol. 123, pp. 98–109, doi:10.1016/j.ocemod.2018.01.005 
+
+15.	Maher, N, England, MH, Gupta, AS & Spence, P 2017, ‘Role of Pacific trade winds in driving ocean temperatures during the recent slowdown and projections under a wind trend reversal’, Climate Dynamics, vol. 51, no. 1-2, pp. 321–336, doi:10.1007/s00382-017-3923-3 
 
