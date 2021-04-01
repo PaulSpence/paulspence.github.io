@@ -15,11 +15,11 @@ author_profile: true
 
 <ul>
 
-<li><p>Webb, D., Holmes, R. M., Spence, P. and England, M.: Propagation of barotropic Kelvin waves around Antarctica. Submitted to <strong>Ocean Dynamics</strong>.</p></li>
+<li><p>Webb, D., Holmes, R. M., <em>Spence, P.</em> and England, M.: Propagation of barotropic Kelvin waves around Antarctica. Submitted to <strong>Ocean Dynamics</strong>.</p></li>
 
-<li><p>Webb, D., Spence, P., Holmes, R. M. and England, M.: Planetary-wave induced strengthening of the AMOC forced by poleward intensified Southern Hemisphere westerly winds. Submitted to <strong>Journal of Climate</strong>.</p></li>
+<li><p>Webb, D., <em>Spence, P.</em>, Holmes, R. M. and England, M.: Planetary-wave induced strengthening of the AMOC forced by poleward intensified Southern Hemisphere westerly winds. Submitted to <strong>Journal of Climate</strong>.</p></li>
 
-<li><p>Menviel, L., Waugh, D., Spence, P., Chamberlain, M., Lago, V., Zhao, L., and England, M.: Natural carbon release compensates for anthropogenic carbon uptake when Southern Hemispheric westerlies strengthen. Submitted to <strong>Global Biogeochemical Cycles</strong>.</p></li>
+<li><p>Menviel, L., Waugh, D., <em>Spence, P.</em>, Chamberlain, M., Lago, V., Zhao, L., and England, M.: Natural carbon release compensates for anthropogenic carbon uptake when Southern Hemispheric westerlies strengthen. Submitted to <strong>Global Biogeochemical Cycles</strong>.</p></li>
 
 </ul>
 
@@ -28,10 +28,12 @@ author_profile: true
 
 <h3 id="2020">2020</h3>
 
-  <li>Menviel, L., Spence, P., Skinner, L., Tachikawa, K., Friedrich, T., Missiaen, L. and Yu, L. 2020: Enhanced Mid‐depth Southward Transport in the Northeast Atlantic at the Last Glacial Maximum Despite a Weaker AMOC. <strong>Paleoceanography and Paleoclimatology</strong>. https://doi.org/10.1029/2019PA003793  <a href="/files/2019PA003793.pdf">pdf</a></li>
+<li>Menviel, L., <em>Spence, P.</em>, Skinner, L., Tachikawa, K., Friedrich, T., Missiaen, L. and Yu, L. 2020: Enhanced Mid‐depth Southward Transport in the Northeast Atlantic at the Last Glacial Maximum Despite a Weaker AMOC. <strong>Paleoceanography and Paleoclimatology</strong>. https://doi.org/10.1029/2019PA003793  <a href="/files/2019PA003793.pdf">pdf</a></li>
+
+<li>Duran, E., Phillips, H., Furue, R., <em>Spence, P.</em>, Bindoff, N. 2020: Southern Australia Current System based on a gridded hydrography and a high-resolution model. https://doi.org/10.1016/j.pocean.2019.102254 <a href="/files/1-s2.0-S0079661119304343-main.pdf">pdf</a> </li>
+
 
 <h3 id="2019">2020</h3>
-
 
 
   <li>I am a list item.</li>
