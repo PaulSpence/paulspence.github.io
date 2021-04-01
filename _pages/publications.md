@@ -32,6 +32,8 @@ author_profile: true
 
 <li>Duran, E., Phillips, H., Furue, R., <em>Spence, P.</em>, Bindoff, N. 2020: Southern Australia Current System based on a gridded hydrography and a high-resolution model. https://doi.org/10.1016/j.pocean.2019.102254 <a href="/files/1-s2.0-S0079661119304343-main.pdf">pdf</a> </li>
 
+<li>Hirschi, J. et al. 2020: The Atlantic meridional overturning circulation in high resolution models.<strong>JGR-Oceans</strong>. https://doi.org/10.1029/2019JC015522 <a href="/files/2019JC015522.pdf">pdf</a> </li>
+
 
 <h3 id="2019">2020</h3>
 
