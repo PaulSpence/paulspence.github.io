@@ -34,6 +34,14 @@ author_profile: true
 
 <li>Hirschi, J. et al. 2020: The Atlantic meridional overturning circulation in high resolution models.<strong>JGR-Oceans</strong>. https://doi.org/10.1029/2019JC015522 <a href="/files/2019JC015522.pdf">pdf</a> </li>
 
+<li>Zeller, M., McGregor, S., van Sebille, E., Capotondi, A., <em>Spence, P.</em> 2020: Subtropical‑tropical pathways of spiciness anomalies and their impact on equatorial Pacifc temperature. <strong>Climate Dynamics</strong>. https://doi.org/10.1007/s00382-020-05524-8 <a href="/files/Zeller2021_Article.pdf">pdf</a> </li>
+
+<li>Duran, E., England, M., <em>Spence, P.</em> 2020: Surface ocean warming around Australia driven by interannual variability and long‐term trends in Southern Hemisphere westerlies. <strong>Geophysical Research Letters</strong>. https://doi.org/10.1029/2019GL086605 <a href="/files/2019GL086605.pdf">pdf</a></li>
+
+<li>Kiss, A. et al. 2020: ACCESS-OM2 v1.0: a global ocean–sea ice model at three resolutions. <strong>Geoscientic Model =Developments</strong>. https://doi.org/10.5194/gmd-13-401-2020 <a href="/files/gmd-13-401-2020.pdf">pdf</a> </li>
+
+<li>Georgiou, S., Ypma, S., Bruggemann, N., Sayol, J., van der Boog, C., <em>Spence, P.</em>, Pietrzak, J. and Katsman, C. 2020: Direct and Indirect Pathways of Convected Water Masses and Their impacts on the Overturning Dynamics of the Labrador Sea. <strong>JGR-Oceans</strong>. https://doi.org/10.1029/2020JC016654 <a href="/files/2020JC016654.pdf">pdf</a> </li>
+
 
 <h3 id="2019">2020</h3>
 
