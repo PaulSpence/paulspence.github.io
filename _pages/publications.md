@@ -60,7 +60,7 @@ author_profile: true
 
 <h3 id="2018">2018</h3>
 
-<li>Thompson, AF, Stewart, AL, <em>Spence, P</em> & Heywood, KJ 2018: The Antarctic Slope Current in a Changing Climate,<strong>Reviews of Geophysics </strong>, vol. 56, no. 4, pp. 741–770. https://doi:10.1029/2018rg000624 <a href="/files/Thompson_et_al-2018.pdf">pdf</a> </li>
+<li>Thompson, AF, Stewart, AL, <em>Spence, P</em> & Heywood, KJ 2018: The Antarctic Slope Current in a Changing Climate, <strong>Reviews of Geophysics </strong>, vol. 56, no. 4, pp. 741–770. https://doi:10.1029/2018rg000624 <a href="/files/Thompson_et_al-2018.pdf">pdf</a> </li>
 
 <li>Menviel, L, Spence, P, Yu, J, Chamberlain, MA & Matear, RJ et al. 2018: Southern Hemisphere westerlies as a driver of the early deglacial atmospheric CO2 rise, <strong>Nature Communications</strong>, vol. 9, no. 1, https://doi:10.1038/s41467-018-04876-4 <a href="/files/s41467-018-04876-4.pdf">pdf</a></li>
 
@@ -68,23 +68,31 @@ author_profile: true
 
 <li>Maher, N, England, MH, Gupta, AS and Spence, P, 2017: Role of Pacific trade winds in driving ocean temperatures during the recent slowdown and projections under a wind trend reversal, <strong>Climate Dynamics</strong>, vol. 51, no. 1-2, pp. 321–336, https://doi:10.1007/s00382-017-3923-3 <a href="/files/Maher2018.pdf">pdf</a> </li>
 
-<li>Stoney, L, Walsh, KJE, Thomas, S, Spence, P & Babanin, AV, 2018: ‘Changes in Ocean Heat Content Caused by Wave-Induced Mixing in a High-Resolution Ocean Model’, Journal of Physical Oceanography, vol. 48, no. 5, pp. 1139–1150, https://doi:10.1175/jpo-d-17-0142.1 <a href="/files/Stoneyetal2018JPO.pdf">pdf</a> </li>
+<li>Stoney, L, Walsh, KJE, Thomas, S, Spence, P & Babanin, AV, 2018: ‘Changes in Ocean Heat Content Caused by Wave-Induced Mixing in a High-Resolution Ocean Model’, <strong>Journal of Physical Oceanography</strong>, vol. 48, no. 5, pp. 1139–1150, https://doi:10.1175/jpo-d-17-0142.1 <a href="/files/Stoneyetal2018JPO.pdf">pdf</a> </li>
 
-<li>Downes, SM, Spence, P & Hogg, AM 2018, ‘Understanding variability of the Southern Ocean overturning circulation in CORE-II models’, Ocean Modelling, vol. 123, pp. 98–109, https://doi.org/10.1016/j.ocemod.2018.01.005 <a href="/files/1-s2.0-S1463500318300234-main.pdf">pdf</a> </li>
+<li>Downes, SM, Spence, P & Hogg, AM 2018, ‘Understanding variability of the Southern Ocean overturning circulation in CORE-II models’, <strong>Ocean Modelling</strong>, vol. 123, pp. 98–109, https://doi.org/10.1016/j.ocemod.2018.01.005 <a href="/files/1-s2.0-S1463500318300234-main.pdf">pdf</a> </li>
 
 
-<h3 id="2018">2017</h3>
+<h3 id="2017">2017</h3>
+
+<li>Spence, P, Holmes, RM, Hogg, AM, Griffies, SM, Stewart, KD & England, M, 2017, ‘Localized rapid warming of West Antarctic subsurface waters by remote winds’, <strong>Nature Climate Change</strong>, vol. 7, no. 8, pp. 595–603, https://doi.org/10.1038/nclimate3335 <a href="/files/nclimate3335.pdf>pdf</a></li>
+
+<li>Walsh, K, Govekar, P, Babanin, AV, Ghantous, M, Spence, P, Scoccimarro, E., 2017, ‘The effect on simulated ocean climate of a parameterization of unbroken wave-induced mixing incorporated into the k-epsilon mixing scheme’, <strong>Journal of Advances in Modeling Earth Systems</strong>, vol. 9, no. 2, pp. 735–758, https://doi.org/10.1002/2016ms000707 <a href="/files/2016MS000707.pdf">pdf</a></li>
+
+<li>Stewart, KD, Hogg, AM, Griffies, SM, Heerdegen, AP, Ward, ML, Spence, P, England, M, 2017, ‘Vertical resolution of baroclinic modes in global ocean models’, <strong>Ocean Modelling</strong>, vol. 113, pp. 50–65, https://doi.org/10.1016/j.ocemod.2017.03.012 <a href="/files/1-s2.0-S1463500317300434-main.pdf">pdf</a> </li>
+
+<li>Jourdain, NC, Mathiot, P, Merino, N, Durand, G, Sommer, JL, Spence, P, Dutrieux, P, and Madec, G, 2017, ‘Ocean circulation and sea-ice thinning induced by melt- ing ice shelves in the Amundsen Sea’, <strong>Journal of Geophysical Research: Oceans</strong>, vol. 122, no. 3, pp. 2550–2573, https://doi.org/10.1002/2016jc012509 <a href="/files/2016JC012509.pdf">pdf</a> </li>
+
+<li>Hogg, AM, Spence, P, Saenko, OA & Downes, SM 2017, ‘The Energetics of Southern Ocean Upwelling’, <strong>Journal of Physical Oceanography</strong>, vol. 47, no. 1, pp. 135–153, https://doi.org/10.1175/jpo-d-16-0176.1 <a href="/files/Hogg2017.pdf">pdf</a> </li>
+
+
+<li>Downes, SM, Langlais, C, Brook, JP & Spence, P 2017, ‘Regional Impacts of the Westerly Winds on Southern Ocean Mode and Intermediate Water Subduction’, <strong>Journal of Physical Oceanography</strong>, vol. 47, no. 10, pp. 2521–2530, https://doi.org/10.1175/jpo-d-17-0106.1 <a href="/files/Downes2017.pdf">pdf</a> </li>
+
+<li>Donat-Magnin, M, Jourdain, NC, Spence, P, Sommer, JL & Gallée, H and Durand, G, 2017, ‘Ice-Shelf Melt Response to Changing Winds and Glacier Dynamics in the Amundsen Sea Sector, Antarctica’, <strong>Journal of Geophysical Research: Oceans</strong>, vol. 122, no. 12, pp. 10206– 10224, https://doi.org/10.1002/2017jc013059 <a href="/files/2017JC013059.pdf">pdf</a></li>
+
+<li>Courtois, P, Hu, X, Pennelly, C, Spence, P & Myers, PG 2017, ‘Mixed layer depth calculation in deep convection regions in ocean numerical models’, <strong>Ocean Modelling</strong>, vol. 120, pp. 60–78, https://doi.org/10.1016/j.ocemod.2017.10.007 <a href="/files/1-s2.0-S146350031730152X-main.pdf">pdf</a> </li>
 
 </ol>
 
-12.	Spence, P, Holmes, RM, Hogg, AM, Griffies, SM & Stewart, KD et al. 2017, ‘Localized rapid warming of West Antarctic subsurface waters by remote winds’, Nature Climate Change, vol. 7, no. 8, pp. 595–603, doi:10.1038/nclimate3335 
-13.	Walsh, K, Govekar, P, Babanin, AV, Ghantous, M & Spence, P et al. 2017, ‘The effect on simulated ocean climate of a parameterization of unbroken wave-induced mixing incorporated into the k-epsilon mixing scheme’, Journal of Advances in Modeling Earth Systems, vol. 9, no. 2, pp. 735–758, doi:10.1002/2016ms000707 
-14.	Stewart, KD, Hogg, AM, Griffies, SM, Heerdegen, AP & Ward, ML et al. 2017, ‘Vertical resolution of baroclinic modes in global ocean models’, Ocean Modelling, vol. 113, pp. 50–65, doi:10.1016/j.ocemod.2017.03.012 
-15.	Maher, N, England, MH, Gupta, AS & Spence, P 2017, ‘Role of Pacific trade winds in driving ocean temperatures during the recent slowdown and projections under a wind trend reversal’, Climate Dynamics, vol. 51, no. 1-2, pp. 321–336, doi:10.1007/s00382-017-3923-3 
-16.	Jourdain, NC, Mathiot, P, Merino, N, Durand, G & Sommer, JL et al. 2017, ‘Ocean circulation and sea-ice thinning induced by melt- ing ice shelves in the Amundsen Sea’, Journal of Geophysical Research: Oceans, vol. 122, no. 3, pp. 2550–2573, doi:10.1002/2016jc012509 
-17.	Hogg, AM, Spence, P, Saenko, OA & Downes, SM 2017, ‘The Energetics of Southern Ocean Upwelling’, Journal of Physical Oceanography, vol. 47, no. 1, pp. 135–153, doi:10.1175/jpo-d-16-0176.1 
-18.	Downes, SM, Langlais, C, Brook, JP & Spence, P 2017, ‘Regional Impacts of the Westerly Winds on Southern Ocean Mode and Intermediate Water Subduction’, Journal of Physical Oceanography, vol. 47, no. 10, pp. 2521–2530, doi:10.1175/jpo-d-17-0106.1 
-19.	Donat-Magnin, M, Jourdain, NC, Spence, P, Sommer, JL & Gallée, H et al. 2017, ‘Ice-Shelf Melt Response to Changing Winds and Glacier Dynamics in the Amundsen Sea Sector, Antarctica’, Journal of Geophysical Research: Oceans, vol. 122, no. 12, pp. 10206– 10224, doi:10.1002/2017jc013059 
-20.	Courtois, P, Hu, X, Pennelly, C, Spence, P & Myers, PG 2017, ‘Mixed layer depth calculation in deep convection regions in ocean numerical models’, Ocean Modelling, vol. 120, pp. 60–78, doi:10.1016/j.ocemod.2017.10.007 
 
 
