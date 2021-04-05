@@ -92,7 +92,18 @@ author_profile: true
 
 <li>Courtois, P, Hu, X, Pennelly, C, Spence, P & Myers, PG 2017, ‘Mixed layer depth calculation in deep convection regions in ocean numerical models’, <strong>Ocean Modelling</strong>, vol. 120, pp. 60–78, https://doi.org/10.1016/j.ocemod.2017.10.007 <a href="/files/1-s2.0-S146350031730152X-main.pdf">pdf</a> </li>
 
-</ol>
+<h3 id="2016">2016</h3>
 
+<li>Ypma, SL, Sebille, Ev, Kiss, AE & Spence, P 2016, ‘The separation of the E ast A ustralian C urrent: A L agrangian approach to po- tential vorticity and upstream control’, <strong>Journal of Geophysical Research: Oceans</strong>, vol. 121, no. 1, pp. 758–774, https://doi.org/10.1002/2015jc011133 <a href="/files/2015JC011133.pdf">pdf</a> </li>
+
+<li>Wang, Q, Ilicak, M, Gerdes, R, Drange, H & Aksenov, Y et al. 2016, ‘An assessment of the Arctic Ocean in a suite of interannual CORE-II simulations. Part II: Liquid freshwater’, <strong>Ocean Modelling</strong>, vol. 99, pp. 86–109, https://doi.org/10.1016/j.ocemod.2015.12.009 <a href="/files/1-s2.0-S1463500315002450-main.pdf">pdf</a> </li>
+
+<li>Wang, Q, Ilicak, M, Gerdes, R, Drange, H & Aksenov, Y et al. 2016, ‘An assessment of the Arctic Ocean in a suite of interannual CORE-II simulations. Part I: Sea ice and solid freshwater’, <strong>Ocean Modelling</strong>, vol. 99, pp. 110–132, https://doi.org/10.1016/j.ocemod.2015.12.008 <a href="/files/1-s2.0-S1463500315002449-main.pdf">pdf</a> </li>
+
+<li>Ilıcak, M, Drange, H, Wang, Q, Gerdes, R & Aksenov, Y et al. 2016, ‘An assessment of the Arctic Ocean in a suite of interannual CORE-II simulations. Part III: Hydrography and fluxes’, <strong>Ocean Modelling</strong>, vol. 100, pp. 141–161, https://doi.org/10.1016/j.ocemod.2016.02.004 <a href="/files/1-s2.0-S1463500316000238-main.pdf">pdf</a> </li>
+
+<li>Dutkiewicz, A, Müller, RD, Hogg, AM & Spence, P 2016, ‘Vigorous deep-sea currents cause global anomaly in sediment accumulation in the Southern Ocean’, <strong>Geology</strong>, vol. 44, no. 8, pp. 663–666, https://doi.org/10.1130/g38143.1 <a href="/files/Dukiewicz2016.pdf">pdf</a></li>
+
+</ol>
 
 
