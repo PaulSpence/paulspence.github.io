@@ -75,7 +75,7 @@ author_profile: true
 
 <h3 id="2017">2017</h3>
 
-<li>Spence, P, Holmes, RM, Hogg, AM, Griffies, SM, Stewart, KD & England, M, 2017, ‘Localized rapid warming of West Antarctic subsurface waters by remote winds’, <strong>Nature Climate Change</strong>, vol. 7, no. 8, pp. 595–603, https://doi.org/10.1038/nclimate3335 <a href="/files/nclimate3335.pdf>pdf</a></li>
+<li>Spence, P, Holmes, RM, Hogg, AM, Griffies, SM, Stewart, KD & England, M, 2017, ‘Localized rapid warming of West Antarctic subsurface waters by remote winds’, <strong>Nature Climate Change</strong>, vol. 7, no. 8, pp. 595–603, https://doi.org/10.1038/nclimate3335 <a href="/files/nclimate3335.pdf">pdf</a></li>
 
 <li>Walsh, K, Govekar, P, Babanin, AV, Ghantous, M, Spence, P, Scoccimarro, E., 2017, ‘The effect on simulated ocean climate of a parameterization of unbroken wave-induced mixing incorporated into the k-epsilon mixing scheme’, <strong>Journal of Advances in Modeling Earth Systems</strong>, vol. 9, no. 2, pp. 735–758, https://doi.org/10.1002/2016ms000707 <a href="/files/2016MS000707.pdf">pdf</a></li>
 
