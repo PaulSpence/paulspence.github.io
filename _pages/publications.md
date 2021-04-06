@@ -176,10 +176,9 @@ author_profile: true
 
 <li> Spence, JP, Eby, M & Weaver, AJ 2008, ‘The Sensitivity of the Atlantic Meridional Overturning Circulation to Freshwater Forcing at Eddy-Permitting Resolutions’, <strong>Journal of Climate</strong>, vol. 21, no. 11, pp. 2697–2710, https://doi.org/10.1175/2007jcli2103.1 <a href="/files/SpenceJCli2008.pdf">pdf</a> </li>
 
-</ol>
+<li>Spence, JP & Weaver, AJ 2006, ‘The Impact of Tropical Atlantic Freshwater Fluxes on the North Atlantic Meridional Overturning Circulation’, <strong>Journal of Climate</strong>, vol. 19, no. 18, pp. 4592–4604, https://doi.org/10.1175/jcli3873.1 <a href="/files/SpenceJCli2006.pdf">pdf</a></li>
 
-48.	Spence, JP, Eby, M & Weaver, AJ 2008, ‘The Sensitivity of the Atlantic Meridional Overturning Circulation to Freshwater Forcing at Eddy-Permitting Resolutions’, Journal of Climate, vol. 21, no. 11, pp. 2697–2710, doi:10.1175/2007jcli2103.1 
-49.	Spence, JP & Weaver, AJ 2006, ‘The Impact of Tropical Atlantic Freshwater Fluxes on the North Atlantic Meridional Overturning Circulation’, Journal of Climate, vol. 19, no. 18, pp. 4592–4604, doi:10.1175/jcli3873.1 
+</ol>
 
 
 
