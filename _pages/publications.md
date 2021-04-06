@@ -160,8 +160,26 @@ author_profile: true
 
 <h3 id="2011">2011</h3>
 
+<li>Montenegro, A, Spence, P, Meissner, KJ, Eby, M & Melchin, MJ et al. 2011, ‘Climate simulations of the Permian-Triassic boundary: Ocean acidification and the extinction event’, <strong>Paleoceanography</strong>, vol. 26, no. 3, https://doi.org/10.1029/2010pa002058 <a href="/files/2010PA002058.pdf">pdf</a></li>
+
+
+<h3 id="2010">2010</h3>
+
+<li> Spence, P, Fyfe, JC, Montenegro, A & Weaver, AJ 2010, ‘Southern Ocean Response to Strengthening Winds in an Eddy-Permitting Global Climate Model’, <strong>Journal of Climate</strong>, vol. 23, no. 19, pp. 5332–5343, https://doi.org/10.1175/2010jcli3098.1 <a href="/files/SpenceJCli2010.pdf">pdf</a></li>
+
+<h3 id="2009">2009</h3>
+
+<li> Spence, P, Saenko, OA, Eby, M & Weaver, AJ 2009, ‘The Southern Ocean Overturning: Parameterized versus Permitted Eddies’, <strong>Journal of Physical Oceanography</strong>, vol. 39, no. 7, pp. 1634–1651, https://doi.org/10.1175/2009jpo4120.1 <a href="/files/SpenceJPO2009.pdf">pdf</a> </li>
+
+
+<h3 id="2008">2008</h3>
+
+<li> Spence, JP, Eby, M & Weaver, AJ 2008, ‘The Sensitivity of the Atlantic Meridional Overturning Circulation to Freshwater Forcing at Eddy-Permitting Resolutions’, <strong>Journal of Climate</strong>, vol. 21, no. 11, pp. 2697–2710, https://doi.org/10.1175/2007jcli2103.1 <a href="/files/SpenceJCli2008.pdf">pdf</a> </li>
+
 </ol>
 
+48.	Spence, JP, Eby, M & Weaver, AJ 2008, ‘The Sensitivity of the Atlantic Meridional Overturning Circulation to Freshwater Forcing at Eddy-Permitting Resolutions’, Journal of Climate, vol. 21, no. 11, pp. 2697–2710, doi:10.1175/2007jcli2103.1 
+49.	Spence, JP & Weaver, AJ 2006, ‘The Impact of Tropical Atlantic Freshwater Fluxes on the North Atlantic Meridional Overturning Circulation’, Journal of Climate, vol. 19, no. 18, pp. 4592–4604, doi:10.1175/jcli3873.1 
 
 
 
