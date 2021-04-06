@@ -118,6 +118,20 @@ author_profile: true
 
 <li>Downes, SM, Farneti, R, Uotila, P, Griffies, SM & Marsland, SJ et al. 2015, ‘An assessment of Southern Ocean wa- ter masses and sea ice during 1988–2007 in a suite of interannual CORE-II simulations’, <strong>Ocean Modelling</strong>, vol. 94, pp. 67– 94, https://doi.org/10.1016/j.ocemod.2015.07.022 <a href="/files/1-s2.0-S1463500315001420-main.pdf">pdf</a></li>
 
+
+<h3 id="2014">2014</h3>
+
+<li>Spence, P, Griffies, SM, England, MH, Hogg, AM & Saenko, OA et al. 2014, ‘Rapid subsurface warming and circula- tion changes of Antarctic coastal waters by poleward shifting winds’, <strong>Geophysical Research Letters</strong>, vol. 41, no. 13, pp. 4601– 4610, https://doi.org/10.1002/2014gl060613 <a href="/files/2014GL060613.pdf">pdf</a></li>
+
+
+<li>England, MH, McGregor, S, Spence, P, Meehl, GA & Timmermann, A et al. 2014, ‘Recent intensification of wind-driven circulation in the Pacific and the ongoing warming hiatus’, <strong>Nature Climate Change</strong>, vol. 4, no. 3, pp. 222–227, https://doi.org/10.1038/nclimate2106 <a href="/files/nclimate2106.pdf">pdf</a> </li>
+
+<li>Spence, P, Sebille, Ev, Saenko, OA & England, MH 2014, ‘Using Eulerian and Lagrangian Approaches to Investigate Wind-Driven Changes in the Southern Ocean Abyssal Circulation’, <strong>Journal of Physical Oceanography</strong>, vol. 44, no. 2, pp. 662–675, https://doi.org/10.1175/JPO-D-13-0108.1 <a href="/files/SpenceJPO2014.pdf">pdf</a> </li>
+
+<li>McGregor, S, Spence, P, Schwarzkopf, FU, England, MH & Santoso, A et al. 2014, ‘ENSO-driven interhemispheric Pacific mass transports’, <strong>Journal of Geophysical Research: Oceans</strong>, vol. 119, no. 9, pp. 6221–6237, https://doi.org/10.1002/2014jc010286 <a href="/files/2014JC010286.pdf">pdf</a> </li>
+
+
 </ol>
+
 
 
