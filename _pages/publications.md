@@ -131,7 +131,37 @@ author_profile: true
 <li>McGregor, S, Spence, P, Schwarzkopf, FU, England, MH & Santoso, A et al. 2014, ‘ENSO-driven interhemispheric Pacific mass transports’, <strong>Journal of Geophysical Research: Oceans</strong>, vol. 119, no. 9, pp. 6221–6237, https://doi.org/10.1002/2014jc010286 <a href="/files/2014JC010286.pdf">pdf</a> </li>
 
 
+<h3 id="2013">2013</h3>
+
+<li>Sebille, Ev, Spence, P, Mazloff, MR, England, MH & Rintoul, SR et al. 2013, ‘Abyssal connections of Antarctic Bottom Water in a Southern Ocean State Estimate’, <strong>Geophysical Research Letters</strong>, vol. 40, no. 10, pp. 2177–2182, https://doi.org/10.1002/grl.50483 <a href="/files/grl.50483.pdf">pdf</a> </li>
+
+<li>Frankcombe, LM, Spence, P, Hogg, AM, England, MH & Griffies, SM 2013, ‘Sea level changes forced by Southern Ocean winds’, <strong>Geophysical Research Letters</strong>, vol. 40, no. 21, pp. 5710–5715, https://doi.org/10.1002/2013gl058104 <a href="/files/2013GL058104.pdf">pdf</a> </li>
+
+<li>Spence, P, Saenko, OA, Sijp, W & England, MH 2013, ‘North Atlantic Climate Response to Lake Agassiz Drainage at Coarse and Ocean Eddy-Permitting Resolutions’, <strong>Journal of Climate</strong>, vol. 26, no. 8, pp. 2651–2667, https://doi.org/10.1175/jcli-d-11-00683.1 <a href="/fi;es/SpenceJCli2013.pdf">pdf</a></li>
+
+<li>Morrison, AK, Saenko, OA, Hogg, AM & Spence, P 2013, ‘The role of vertical eddy flux in Southern Ocean heat uptake’, <strong>Geophysical Research Letters</strong>, vol. 40, no. 20, pp. 5445–5450, https://doi.org/10.1002/2013gl057706 <a href="/files/2013GL057706.pdf">odf</a></li>
+
+<li> McGregor, S, Ramesh, N, Spence, P, England, MH & McPhaden, MJ et al. 2013, ‘Meridional movement of wind anomalies during ENSO events and their role in event termination’, <strong>Geophysical Research Letters </strong>, vol. 40, no. 4, pp. 749–754, https://doi.org/10.1002/grl.50136<a href="/files/grl.50136.pdf">pdf</a> </li>
+
+<li>Fogwill, C, Turner, C, Meissner, K, Golledge, N, Spence, P, et al. 2013, ‘Testing the sensitivity of the East Antarctic Ice Sheet to Southern Ocean dynamics: past changes and future implications’, <strong>Journal of Quaternary Science</strong>, vol. 29, no. 1, pp. 91– 98, https://doi.org/10.1002/jqs.2683
+</li>
+
+
+<h3 id="2012">2012</h3>
+
+<li>Spence, P, Saenko, OA, Sijp, W & England, M 2012, ‘The Role of Bottom Pressure Torques on the Interior Pathways of North Atlantic Deep Water’, <strong>Journal of Physical Oceanography</strong>, vol. 42, no. 1, pp. 110–125, https://doi.org/10.1175/2011jpo4584.1 <a href="/files/SpenceJPO2012.pdf">pdf</a></li>
+
+<li>Spence, P, Saenko, OA, Dufour, CO, Sommer, JL & England, MH 2012, ‘Mechanisms Maintaining Southern Ocean Meridional Heat Transport under Projected Wind Forcing’, <strong>Journal of Physical Oceanography</strong>, vol. 42, no. 11, pp. 1923–1931, https://doi.org/10.1175/jpo-d-12-03.1<a href="/files/SpenceJPO2012MHT.pdf">pdf</a></li>
+
+<li>Sijp, WP, Gregory, JM, Tailleux, R & Spence, P 2012, ‘The Key Role of the Western Boundary in Linking the AMOC Strength to the North–South Pressure Gradient’, <strong>Journal of Physical Oceanography</strong>, vol. 42, no. 4, pp. 628–643, https://doi.org/10.1175/jpo-d-11-0113.1 <a href="/files/SijpJPO2012.pdf">pdf</a></li>
+
+<li>Saenko, OA, Gupta, AS & Spence, P 2012, ‘On Challenges in Predicting Bottom Water Transport in the Southern Ocean’, <strong>Journal of Climate</strong>, vol. 25, no. 4, pp. 1349–1356, https://doi.org/10.1175/jcli-d-11-00040.1 <a href="/files/Saenko.pdf">pdf</a> </li>
+
+
+<h3 id="2011">2011</h3>
+
 </ol>
+
 
 
 
