@@ -107,6 +107,17 @@ author_profile: true
 
 <h3 id="2015">2015</h3>
 
+
+<li>Menviel, L., Spence, P., Golledge, N.R., and England, M.H., 2015: Southern Ocean overturning role in modulating high south- ern latitude climate and atmospheric CO2 on millennial timescales. <strong>Nova Acta Leopoldina NF</strong> 121: 159-166.</li>
+
+<li>Stewart, KD, Spence, P, Waterman, S, Sommer, JL & Molines, Lilly, J, England, M, 2015, ‘Anisotropy of eddy variability in the global ocean’, <strong>Ocean Modelling</strong>, vol. 95, pp. 53–65, https://doi.org/10.1016/j.ocemod.2015.09.005 <a href="/files/1-s2.0-S1463500315001638-main.pdf">pdf</a> </li>
+
+<li>Saenko, OA, Yang, D, Gregory, JM, Spence, P & Myers, PG 2015, ‘Separating the influence of projected changes in air temperature and wind on patterns of sea level change and ocean heat content’, <strong>Journal of Geophysical Research: Oceans</strong>, vol. 120, no. 8, pp. 5749– 5765, https://doi.org/10.1002/2015jc010928 <a href="/files/2015JC010928.pdf">pdf</a></li>
+
+<li>Menviel, L, Spence, P & England, MH 2015, ‘Contribution of enhanced Antarctic Bottom Water formation to Antarctic warm events and millennial-scale atmospheric CO2 increase’, <strong>Earth and Planetary Science Letters</strong>, vol. 413, pp. 37–50, https://doi.org/10.1016/j.epsl.2014.12.050 <a href="/files/1-s2.0-S0012821X14008115-main.pdf">pdf</a></li>
+
+<li>Downes, SM, Farneti, R, Uotila, P, Griffies, SM & Marsland, SJ et al. 2015, ‘An assessment of Southern Ocean wa- ter masses and sea ice during 1988–2007 in a suite of interannual CORE-II simulations’, <strong>Ocean Modelling</strong>, vol. 94, pp. 67– 94, https://doi.org/10.1016/j.ocemod.2015.07.022 <a href="/files/1-s2.0-S1463500315001420-main.pdf">pdf</a></li>
+
 </ol>
 
 
