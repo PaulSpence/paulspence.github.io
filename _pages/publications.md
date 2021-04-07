@@ -64,7 +64,7 @@ author_profile: true
 
 <li>Menviel, L, Spence, P, Yu, J, Chamberlain, MA & Matear, RJ et al. 2018: Southern Hemisphere westerlies as a driver of the early deglacial atmospheric CO2 rise, <strong>Nature Communications</strong>, vol. 9, no. 1, https://doi:10.1038/s41467-018-04876-4 <a href="/files/s41467-018-04876-4.pdf">pdf</a></li>
 
-<li>Thran, AC, Dutkiewicz, A, Spence, P and Müller, RD 2018: Controls on the global distribution of contourite drifts: Insights from an eddy-resolving ocean model, <strong>Earth and Planetary Science Letters</strong>, vol. 489, pp. 228–240, https://doi.org/10.1016/j.epsl.2018.02.044 <a href="/files/s41467-018-04876-4.pdf">pdf</a></li>
+<li>Thran, AC, Dutkiewicz, A, Spence, P and Müller, RD 2018: Controls on the global distribution of contourite drifts: Insights from an eddy-resolving ocean model, <strong>Earth and Planetary Science Letters</strong>, vol. 489, pp. 228–240, https://doi.org/10.1016/j.epsl.2018.02.044 <a href="/files/1-s2.0-S0012821X18301067-main.pdf">pdf</a></li>
 
 <li>Maher, N, England, MH, Gupta, AS and Spence, P, 2017: Role of Pacific trade winds in driving ocean temperatures during the recent slowdown and projections under a wind trend reversal, <strong>Climate Dynamics</strong>, vol. 51, no. 1-2, pp. 321–336, https://doi:10.1007/s00382-017-3923-3 <a href="/files/Maher2018.pdf">pdf</a> </li>
 
