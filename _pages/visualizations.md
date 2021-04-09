@@ -7,7 +7,7 @@ author_profile: true
 
 <section class="page__content" itemprop="text">
 
-<p>Please see below for a chronological list of my grant funded research projects as a Chief Investigator:</p>
+<p>Please see below for two wonderful ocean circulation visualizations I helped create:</p>
 
 <ul>
 
