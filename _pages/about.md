@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="background-image: url('/files/fish2.png');">
+<img src="/files/hammers.png">
 
 The central theme of my research is geophysical fluid dynamics, with a focus on ocean dynamics and the ocean’s role in global climate. 
 
