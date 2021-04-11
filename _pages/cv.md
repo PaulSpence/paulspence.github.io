@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<p>Please see below for a brief review of my career history. Here is a March, 2021 pdf of my <a href="/files/PSpenceCV.pdf">CV</a></p>
+
 Education
 ======
 * B.S. Physics and Physical Oceanography, University of Victoria, BC, Canada, 1999
