@@ -8,20 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div class="page__hero--overlay" style="background-color: #000; background-image: url('/files/fish2.png');"i
->
-    <div class="wrapper">
-      <h1 id="page-title" class="page__title" itemprop="headline">
-          Research II
-      </h1>
-      
-        <p class="page__lead">Maths + Physics + Analysis + Iterate</p>
-	</div>
-    <span class="page__hero-caption">Lagrangian averaged vorticity deviation in the west Pacific from CM2.6 (courtesy N. Tarshish)
-</span>
-  
-</div>
-
+<div style="background-image: url('/files/fish2.png');">
 
 The central theme of my research is geophysical fluid dynamics, with a focus on ocean dynamics and the ocean’s role in global climate. 
 
