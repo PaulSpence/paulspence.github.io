@@ -11,7 +11,7 @@ author_profile: true
 
 <ul>
 
-<h3> 2020 ARC Linkage Project:</h3> “An Australian Consortium for Eddy-Resolving Global Ocean-Sea Ice Modelling”.
+<h3> 2020 ARC Linkage Project: “An Australian Consortium for Eddy-Resolving Global Ocean-Sea Ice Modelling”.</h3>
 
 Ocean and sea ice models are used for predicting future ocean and climate states, and for climate process
 research. This project aims to bring the next generation of ocean and sea ice models to Australia and configure
@@ -21,7 +21,7 @@ Australian facilities, and will be released to the community under an open-sourc
 underpin future operational needs, including ocean state forecasting, sea ice forecasts, wave forecasts, decadal
 climate prediction, future climate projections and climate process studies.
 
-<h3> 2020 ARC Special Research Initiative:</h3> “Australian Centre for Excellence in Antarctic Science”.
+<h3> 2020 ARC Special Research Initiative: “Australian Centre for Excellence in Antarctic Science”.</h3> 
 
 The Centre will revolutionise predictions of the future of East Antarctica and the Southern Ocean. Changes in the
 Antarctic will be profoundly costly to Australia, including sea-level and fisheries impacts; but the speed and scale
@@ -31,7 +31,7 @@ Antarctica’s future. The Centre will combine new field data with innovative mo
 science priorities, train graduate students, develop leaders, engage the public, and enable major economic benefit
 as Australia adapts to climate change in the coming years and beyond.
 
-<h3> 2019 ARC Future Fellowship:</h3> “The Antarctic Slope Current in a warming climate”.
+<h3> 2019 ARC Future Fellowship: “The Antarctic Slope Current in a warming climate”. </h3>
 
 Melting Antarctic ice sheets are responsible for 28% of global sea level rise in recent decades, and can contribute
 more than 1 metre of sea level rise by year 2100, and a staggering 15 metres by 2500. Increased glacial melt
@@ -41,7 +41,7 @@ observations and modelling systems. This project uses a series of high-resolutio
 cross-validated with observations, to provide a deeper understanding of how waters at the Antarctic margin
 respond to both anthropogenic and natural climate forcing.
 
-<h3> 2019 ARC Discovery Project:</h3> “Risks of rapid ocean warming at the Antarctic continental margin”.
+<h3> 2019 ARC Discovery Project: “Risks of rapid ocean warming at the Antarctic continental margin”.</h3> 
 
 The risk of rapid ocean warming at the Antarctic margin is profound, with marine terminating ice-sheets locking up
 many meters of potential global sea-level rise. Change has already been detected via deep ocean warming, landice
@@ -51,7 +51,8 @@ will use high-resolution global and regional ocean/sea-ice models to examine mec
 Antarctic continental shelf waters via both large-scale drivers and fine-scale processes, including mesoscale
 eddies, tide-topography interactions, and bottom boundary flows.
 
-<h3> 2016 ARC Linkage Project:</h3> “An Australian Consortium for Eddy-Resolving Global Ocean-Sea Ice Modelling”.
+<h3> 2016 ARC Linkage Project: “An Australian Consortium for Eddy-Resolving Global Ocean-Sea Ice Modelling”.</h3> 
+
 This project aims to develop a new world-class global ocean-sea ice model framework through a nationwide
 consortium. The resulting high resolution models will improve the representation of critically important processes.
 These models will provide the foundation upon which the next decade of Australian ocean-sea ice modeling
@@ -59,7 +60,7 @@ capacity can be built, leading to improved ocean and sea ice prediction, ocean r
 projections, enhancing Australia's capacity to predict the ocean state on timescales of days to decades. This will
 yield efficiencies in shipping, marine search and rescue and naval operations, and will increase the accuracy of projected future changes in climate, sea level, ocean ecosystems and the cryosphere.
 
-<h3> 2015 ARC Discovering Early Career Researchers Award:</h3> “Dynamics of Southern Ocean abyssal flows”
+<h3> 2015 ARC Discovering Early Career Researchers Award: “Dynamics of Southern Ocean abyssal flows”</h3> 
 
 Changes in the Southern Ocean abyssal circulation are linked with dramatic climate events, yet
 the associated dynamics are poorly understood. This project aims to determine the fundamental
