@@ -20,10 +20,10 @@ Education
 Student Supervision
 ======
   
-* 2005-2020: David Webb
+* 2015-2020: David Webb
   * Completed PhD
 
-* 2005-2020: Earl Duran
+* 2015-2020: Earl Duran
   * Completed PhD
 
 * 2014: Tom Buezen
