@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr Paul Spence"
-  avatar           : "/files/cuttle.png"
+  avatar           : "cuttle.png"
   bio              : "Physical Oceanographer and Climate Scientist"
   location         : "University of Sydney, Australia"
   employer         : "School of Geosciences"
