@@ -1,16 +1,17 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Academic Me"
+excerpt: "Academic me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<img src="/files/hammers.png">
 
-The central theme of my research is geophysical fluid dynamics, with a focus on ocean dynamics and the ocean’s role in global climate. 
+The central theme of my research is geophysical fluid dynamics with a focus on the ocean’s role in global climate. Please is a shadowy picture of some hammerhead sharks, followed by a brief academic bio. 
+
+<img src="/files/hammers.png">
 
 I completed my PhD at the [School of Earth and Ocean Science, University of Victoria, BC, Canada](https://www.uvic.ca/science/seos/index.php) in 2009. It was focussed on numerical modelling of the ocean's overturning circulation at different resolutions.
 
