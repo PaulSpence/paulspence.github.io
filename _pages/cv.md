@@ -33,9 +33,10 @@ Student Supervision
   * 6 week summer internship
 
 * 2012: Christopher Bull
-  *6 week summer internship
+  * 6 week summer internship
 
 * 2011: Nandini Ramesh
+  * 3 month summer internship
 
 Employment History
 ======
@@ -60,6 +61,5 @@ Employment History
 * 1994-1998 (intermittent): Outdoor Educator
   * Sheldon Centre for Outdoor Education, Sheldon, Ont., Canada
 
-  * 3 month summer internship
 
 
