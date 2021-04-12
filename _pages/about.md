@@ -12,7 +12,7 @@ redirect_from:
 
 The central theme of my research is geophysical fluid dynamics, with a focus on ocean dynamics and the ocean’s role in global climate. 
 
-I completed my PhD at the [School of Earth and Ocean Science, University of Victoria, BC, Canada](https://www.uvic.ca/science/seos/index.php) in 2009. My PhD focussed on numerical modelling of the ocean's overturning circulation at mesoscale resolutions. 
+I completed my PhD at the [School of Earth and Ocean Science, University of Victoria, BC, Canada](https://www.uvic.ca/science/seos/index.php) in 2009. It was focussed on numerical modelling of the ocean's overturning circulation at different resolutions.
 
 In 2009, I began working at the [Climate Change Research Centre, UNSW, Sydney, Australia](https://www.ccrc.unsw.edu.au/) as a post-doctoral researcher. In 2015, I received an Australian Research Council Discovering Early Career Researchers award to study Antarctic Bottom Water dynamics. I was promoted to Senior Lecturer at UNSW in 2016. 
 

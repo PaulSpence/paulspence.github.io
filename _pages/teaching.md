@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 <section class="page__content" itemprop="text">
+I believe in regarding students as paying customers who deserve well prepared, challenging and engaging
+material. My primary hope is to inspire a sense of scientific wonder in students by facilitating
+their appreciation for nature’s inherent beauty via physical and mathematical concepts.
 
 <h3>Courses taught at the <a href="https://www.bamfieldmsc.com/">Bamfield Marine Science Centre:</a></h3>
 <ul>
