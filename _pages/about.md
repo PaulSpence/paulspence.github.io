@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-The central theme of my research is geophysical fluid dynamics with a focus on the ocean’s role in global climate. Please is a shadowy picture of some hammerhead sharks, followed by a brief academic bio. 
+The central theme of my research is geophysical fluid dynamics with a focus on the ocean’s role in global climate. Below is a favourite shadowy picture of hammerhead sharks, followed by a brief academic bioi. Thank you for visiting :) 
 
 <img src="/files/hammers.png">
 
