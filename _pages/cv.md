@@ -17,6 +17,26 @@ Education
 * M.S. in Climate Science, University of Victoria, BC, Canada, 2005
 * Phd. in Climate Science, University of Victoria, BC, Canada, 2009
 
+Student Supervision
+======
+  
+* 2005-2020: David Webb
+  * Completed PhD
+
+* 2005-2020: Earl Duran
+  * Completed PhD
+
+* 2014: Tom Buezen
+  * 12 week summer internship
+
+* 2013: David Crock
+  * 6 week summer internship
+
+* 2012: Christopher Bull
+  *6 week summer internship
+
+* 2011: Nandini Ramesh
+
 Employment History
 ======
 * 02/2021-present: ARC Future Fellow
@@ -40,26 +60,6 @@ Employment History
 * 1994-1998 (intermittent): Outdoor Educator
   * Sheldon Centre for Outdoor Education, Sheldon, Ont., Canada
 
-
-Students Supervision
-======
-  
-* 2005-2020: David Webb
-  * Completed PhD
-
-* 2005-2020: Earl Duran
-  * Completed PhD
-
-* 2014: Tom Buezen
-  * 12 week summer internship
-
-* 2013: David Crock
-  * 6 week summer internship
-
-* 2012: Christopher Bull
-  *6 week summer internship
-
-* 2011: Nandini Ramesh
   * 3 month summer internship
 
 
