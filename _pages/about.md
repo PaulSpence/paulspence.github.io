@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 
-The central theme of my research is geophysical fluid dynamics with a focus on the ocean’s role in global climate. Below is a favourite shadowy picture of hammerhead sharks, followed by a brief academic biography. Thank you for visiting :) 
+The central theme of my research is geophysical fluid dynamics with a focus on the ocean’s role in global climate. I am especially interested in dynamics of the Southern Ocean and Antarctic margins. I am employed at the [Institute of Marine and Antarctic Studies, University of Tasmania](https://www.imas.utas.edu.au/). 
 
 <img src="/files/hammers.png">
+A favourite shadowy picture of hammerhead sharks. A brief academic bio is below. Thank you for visiting :)  
 
 In 2019, I received an Australian Research Council Future Fellowship award to study the Antarctic Slope Current. In 2021, I started working at the [Institute of Marine and Antarctic Studies, University of Tasmania](https://www.imas.utas.edu.au/). 
 
