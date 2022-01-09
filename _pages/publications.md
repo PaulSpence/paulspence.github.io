@@ -17,14 +17,19 @@ author_profile: true
 
 <li><p>Webb, D., Holmes, R. M., <em>Spence, P.</em> and England, M.: Propagation of barotropic Kelvin waves around Antarctica. Submitted to <strong>Ocean Dynamics</strong>.</p></li>
 
-<li><p>Webb, D., <em>Spence, P.</em>, Holmes, R. M. and England, M.: Planetary-wave induced strengthening of the AMOC forced by poleward intensified Southern Hemisphere westerly winds. Submitted to <strong>Journal of Climate</strong>.</p></li>
-
 <li><p>Menviel, L., Waugh, D., <em>Spence, P.</em>, Chamberlain, M., Lago, V., Zhao, L., and England, M.: Natural carbon release compensates for anthropogenic carbon uptake when Southern Hemispheric westerlies strengthen. Submitted to <strong>Global Biogeochemical Cycles</strong>.</p></li>
 
 </ul>
 
 
 <ol reversed>
+<h3 id="2021">2020</h3>
+
+<li>Georgiou, S., Ypma, S., Bruggemann, N., Sayol, J., van der Boog, C., <em>Spence, P.</em>, Pietrzak, J. and Katsman, C. 2021: Direct and Indirect Pathways of Convected Water Masses and Their impacts on the Overturning Dynamics of the Labrador Sea. <strong>JGR-Oceans</strong>. https://doi.org/10.1029/2020JC016654 <a href="/files/2020JC016654.pdf">pdf</a> </li>
+
+<li>Zeller, M., McGregor, S., van Sebille, E., Capotondi, A., <em>Spence, P.</em> 2021: Subtropical‑tropical pathways of spiciness anomalies and their impact on equatorial Pacifc temperature. <strong>Climate Dynamics</strong>. https://doi.org/10.1007/s00382-020-05524-8 <a href="/files/Zeller2021_Article.pdf">pdf</a> </li>
+
+<li><p>Webb, D., <em>Spence, P.</em>, Holmes, R. M. and England, M.: Planetary-wave induced strengthening of the AMOC forced by poleward intensified Southern Hemisphere westerly winds. <strong>Journal of Climate</strong>. https://doi.org/10.1175/JCLI-D-20-0858.1 </p></li>
 
 <h3 id="2020">2020</h3>
 
@@ -34,13 +39,9 @@ author_profile: true
 
 <li>Hirschi, J. et al. 2020: The Atlantic meridional overturning circulation in high resolution models.<strong> JGR-Oceans</strong>. https://doi.org/10.1029/2019JC015522 <a href="/files/2019JC015522.pdf">pdf</a> </li>
 
-<li>Zeller, M., McGregor, S., van Sebille, E., Capotondi, A., <em>Spence, P.</em> 2020: Subtropical‑tropical pathways of spiciness anomalies and their impact on equatorial Pacifc temperature. <strong>Climate Dynamics</strong>. https://doi.org/10.1007/s00382-020-05524-8 <a href="/files/Zeller2021_Article.pdf">pdf</a> </li>
-
 <li>Duran, E., England, M., <em>Spence, P.</em> 2020: Surface ocean warming around Australia driven by interannual variability and long‐term trends in Southern Hemisphere westerlies. <strong>Geophysical Research Letters</strong>. https://doi.org/10.1029/2019GL086605 <a href="/files/2019GL086605.pdf">pdf</a></li>
 
 <li>Kiss, A. et al. 2020: ACCESS-OM2 v1.0: a global ocean–sea ice model at three resolutions. <strong>Geoscientic Model Developments</strong>. https://doi.org/10.5194/gmd-13-401-2020 <a href="/files/gmd-13-401-2020.pdf">pdf</a> </li>
-
-<li>Georgiou, S., Ypma, S., Bruggemann, N., Sayol, J., van der Boog, C., <em>Spence, P.</em>, Pietrzak, J. and Katsman, C. 2020: Direct and Indirect Pathways of Convected Water Masses and Their impacts on the Overturning Dynamics of the Labrador Sea. <strong>JGR-Oceans</strong>. https://doi.org/10.1029/2020JC016654 <a href="/files/2020JC016654.pdf">pdf</a> </li>
 
 <li>Morrison, A., Hogg, A., England, M., Spence, P. 2020: Warm Circumpolar Deep Water transport toward Antarctica driven by local dense water export in canyons. <strong>Science Advances</strong>. DOI: 10.1126/sciadv.aav2516 <a href="/files/eaav2516.full.pdf">pdf</a></li>
 
