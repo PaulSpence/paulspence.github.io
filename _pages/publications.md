@@ -25,7 +25,7 @@ author_profile: true
 <ol reversed>
 <h3 id="2021">2020</h3>
 
-<li>Georgiou, S., Ypma, S., Bruggemann, N., Sayol, J., van der Boog, C., <em>Spence, P.</em>, Pietrzak, J. and Katsman, C. 2021: Direct and Indirect Pathways of Convected Water Masses and Their impacts on the Overturning Dynamics of the Labrador Sea. <strong>JGR-Oceans</strong>. https://doi.org/10.1029/2020JC016654 <a href="/files/2020JC016654.pdf">pdf</a> </li>
+<li>Georgiou, S., Ypma, S., Bruggemann, N., Sayol, J., van der Boog, C., <em>Spence, P.</em>, Pietrzak, J. and Katsman, C. 2021: Direct and Indirect Pathways of Convected Water Masses and their impacts on the Overturning Dynamics of the Labrador Sea. <strong>JGR-Oceans</strong>. https://doi.org/10.1029/2020JC016654 <a href="/files/2020JC016654.pdf">pdf</a> </li>
 
 <li>Zeller, M., McGregor, S., van Sebille, E., Capotondi, A., <em>Spence, P.</em> 2021: Subtropical‑tropical pathways of spiciness anomalies and their impact on equatorial Pacifc temperature. <strong>Climate Dynamics</strong>. https://doi.org/10.1007/s00382-020-05524-8 <a href="/files/Zeller2021_Article.pdf">pdf</a> </li>
 
